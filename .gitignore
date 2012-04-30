@@ -8,6 +8,7 @@ Tests.VisualState.xml
 *.manifest
 *.exe
 *.pdb
+*.pidb
 *.cache
 *.suo
 *.orig
